@@ -79,7 +79,7 @@ class Operation(BasePipeline):
         print('#\t Operation name:', report.pop('operation_name', None))
         print('#\t Documentation:', report.pop('documentation', None))
         for key, content in report.items():
-            print('\t {} : {}'.format(key, content))
+            print(f'\t {key} : {content}')
             print('--------------------------------')
 
         print()
