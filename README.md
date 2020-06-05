@@ -1,6 +1,6 @@
 # Dataline
 
-Simple class to aim the process of data cleaning.
+Simple class to aim for the process of data cleaning.
 
 Install
 -------
