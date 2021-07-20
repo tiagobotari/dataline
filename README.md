@@ -1,16 +1,17 @@
-# Dataline
+# DataLine
 
-Simple class to aim for the process of data cleaning.
+Simple class to aid the process of data cleaning.
 
 Install
 -------
 
 python setup.py install
+pip install dataline
 
 Use:
 ----
 
-see example/example1.py
+Please see example/example1.py.
 
 
 
