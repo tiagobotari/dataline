@@ -14,7 +14,7 @@ if __name__ == "__main__":
         version='0.0'
         , author=''
         , author_email='tiagobotari@gmail.com'
-        , description="Simple class to aid the process of data cleaning.",
+        , description="Simple class to aid the process of data cleaning."
         , license='https://github.com/tiagobotari/dataline'
         , url="https://github.com/rcabdia/CWT"
         , packages=find_packages()
